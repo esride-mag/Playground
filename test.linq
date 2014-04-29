@@ -2,7 +2,7 @@
 
 void Main()
 {
-	var x = 8;
+	var x = 10;
 	x++;
 	Console.WriteLine(x);
 }
